@@ -70,7 +70,7 @@ Welcome to the ProGrade backend repository! This project is the backend implemen
 
 ## Contributing
 
-Feel free to contribute by submitting bug reports, feature requests, or pull requests. Your input is highly valued!
+Feel free to contribute by submitting bug reports, feature requests, or pull requests. Your input is highly valued!My whole working was at [ProGrade](https://github.com/prograde123) as it was a private project so all my commits can be viewed there
 
 ## Author
 
